@@ -1,4 +1,4 @@
-# Mongodb-with-python-
+# Mongodb-with-python
 
 '''Install monngodb packages'''
 '''pip install pymongo'''
